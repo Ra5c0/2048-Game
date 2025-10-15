@@ -44,30 +44,24 @@ Un clone moderne du célèbre **jeu 2048**, développé en **Python + Pygame**, 
 
 ### 🧩 Menu de démarrage
 
-Choix entre une grille 4×4, 5×5 ou 6×6
-
-Affichage cohérent selon le thème sélectionné
+- Choix entre une grille 4×4, 5×5 ou 6×6
+- Affichage cohérent selon le thème sélectionné
 
 ### 🎨 Interface fluide et moderne
 
-Animations de glissement, fusion et apparition
-
-Interface responsive (fenêtre redimensionnable)
-
-Design sobre et élégant
+- Animations de glissement, fusion et apparition
+- Interface responsive (fenêtre redimensionnable)
+- Design sobre et élégant
 
 ### 💾 Persistance automatique
 
-Sauvegarde du meilleur score pour chaque taille de grille
-
-Sauvegarde du thème préféré (clair ou sombre)
-→ stockées dans 2048_prefs.json
+- Sauvegarde du meilleur score pour chaque taille de grille
+- Sauvegarde du thème préféré (clair ou sombre) → stockées dans 2048_prefs.json
 
 ### ⚙️ Optimisations
 
-Aucune apparition prématurée de tuiles (l’animation suit la logique du jeu)
-
-Aucune dépendance autre que Pygame
+- Aucune apparition prématurée de tuiles (l’animation suit la logique du jeu)
+- Aucune dépendance autre que Pygame
 
 ## 📁 Structure du projet
 .
