@@ -68,7 +68,7 @@ Un clone moderne du célèbre **jeu 2048**, développé en **Python + Pygame**, 
     ├── 2048_modern.py       # Code principal du jeu
     ├── 2048_prefs.json      # Fichier de préférences (thème + scores)
     ├── README.md            # Ce fichier
-    └── requirements.txt     # Optionnel (pygame)
+    └── requirements.txt     # Librairie
 
 (Le fichier 2048_prefs.json est créé automatiquement à la première exécution.)
 
