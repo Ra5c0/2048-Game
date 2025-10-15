@@ -30,6 +30,7 @@ Un clone moderne du célèbre **jeu 2048**, développé en **Python + Pygame**, 
     ```
 
 ## 🎮 Contrôles
+
 | Action                      | Touche(s)  |
 | :-------------------------- | :--------- |
 | Déplacer vers le haut       | `Z` ou `↑` |
@@ -70,12 +71,3 @@ Un clone moderne du célèbre **jeu 2048**, développé en **Python + Pygame**, 
     ├── 2048_prefs.json      # Fichier de préférences (thème + scores)
     ├── README.md            # Ce fichier
     └── requirements.txt     # Librairie
-
-(Le fichier 2048_prefs.json est créé automatiquement à la première exécution.)
-
-## ⚙️ Compatibilité
-
-- Python ≥ 3.9
-- Pygame ≥ 2.5
-- Compatible Windows, macOS et Linux
-- Supporte claviers AZERTY (ZQSD) et QWERTY (flèches)
