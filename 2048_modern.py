@@ -1,5 +1,5 @@
 # 2048 - Pygame (ZQSD + Arrows) - Menu (4x4/5x5/6x6) + Thème Clair/Sombre (C)
-# pip install pygame
+# pip install -r requirements.txt
 
 import pygame, sys, random, json, os
 pygame.init()
