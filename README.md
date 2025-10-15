@@ -19,9 +19,9 @@ Un clone moderne du célèbre **jeu 2048**, développé en **Python + Pygame**, 
    ```
 
 
-2. **Installer la dépendance :**
+2. **Installer les dépendances :**
     ```
-    pip install pygame
+    pip install -r requirements.txt
     ```
 
 3. **Lancer le jeu :**
