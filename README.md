@@ -64,6 +64,7 @@ Un clone moderne du célèbre **jeu 2048**, développé en **Python + Pygame**, 
 - Aucune dépendance autre que Pygame
 
 ## 📁 Structure du projet
+
     .
     ├── 2048_modern.py       # Code principal du jeu
     ├── 2048_prefs.json      # Fichier de préférences (thème + scores)
@@ -74,10 +75,7 @@ Un clone moderne du célèbre **jeu 2048**, développé en **Python + Pygame**, 
 
 ## ⚙️ Compatibilité
 
-Python ≥ 3.9
-
-Pygame ≥ 2.5
-
-Compatible Windows, macOS et Linux
-
-Supporte claviers AZERTY (ZQSD) et QWERTY (flèches)
+- Python ≥ 3.9
+- Pygame ≥ 2.5
+- Compatible Windows, macOS et Linux
+- Supporte claviers AZERTY (ZQSD) et QWERTY (flèches)
